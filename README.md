@@ -14,6 +14,7 @@ Me chamo Lucas, tenho 16 anos e estou  cursando o 2° ano do Ensino Médio  de D
             title="segue lá 😜" 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=mention&logoColor=white"
         />
+    </a>
 
 <a href="https://wa.me/5542988346059">
         <img 
