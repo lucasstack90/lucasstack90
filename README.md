@@ -7,6 +7,22 @@ Me chamo Lucas, tenho 16 anos e estou  cursando o 2° ano do Ensino Médio  de D
 
  Eu acredito que posso realizar grandes projetos e estou me apaixonando cada vez mais pelo mundo de Desenvolvimento Web. <br> em meu instagram, "[luk_lcj ](https://www.instagram.com/luk_lcj/#)" você pode conhecer mais sobre mim.
 
+<p align="left">
+    <a href="https://www.instagram.com/luk_lcj/#">
+        <img 
+            alt="youtube subscribers" 
+            title="segue lá 😜" 
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=mention&logoColor=white"
+        />
+
+<a href="">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/badge/-42--98834--6059-orange?style=for-the-badge&logo=phone&logoColor=white"
+        />
+    </a> 
+ </p>
 
 ---
 
@@ -76,7 +92,7 @@ Me chamo Lucas, tenho 16 anos e estou  cursando o 2° ano do Ensino Médio  de D
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucasstack90&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucasstack90&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
 </p>
 
