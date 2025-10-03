@@ -1,11 +1,12 @@
-# 👩🏻‍💻 Lucas Aguiar
+# 👨‍💻 Lucas Aguiar
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Lucas, tenho 16 anos e estou  cursando o 2° ano do Ensino Médio  de Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
+Me chamo Lucas, tenho 16 anos e atualmente curso o 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
 <br>
 
- Eu acredito que posso realizar grandes projetos e estou me apaixonando cada vez mais pelo mundo de Desenvolvimento Web. <br> em meu instagram, "[luk_lcj ](https://www.instagram.com/luk_lcj/#)" você pode conhecer mais sobre mim.
+Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.
+ <br>
 
 <p align="left">
     <a href="https://www.instagram.com/luk_lcj/#">
@@ -15,14 +16,7 @@ Me chamo Lucas, tenho 16 anos e estou  cursando o 2° ano do Ensino Médio  de D
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-
-<a href="https://wa.me/5542988346059">
-        <img 
-            alt="Meu Contato" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/badge/-42--98834--6059-orange?style=for-the-badge&logo=phone&logoColor=white"
-        />
-    </a> 
+    
  </p>
 
 ---
