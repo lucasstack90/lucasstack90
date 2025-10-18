@@ -1,4 +1,4 @@
-w# 👨‍💻 Lucas Aguiar
+# 👨‍💻 Lucas Aguiar
 
 **`Desenvolvedor Front-End`**
 
