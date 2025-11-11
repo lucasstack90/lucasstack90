@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes 
  <br>
 
 <p align="left">
-    <a href="https://www.instagram.com/luk_lcj/#">
+    <a href="https://www.instagram.com/luk_lcj/#" target="_blank">
         <img 
             alt="youtube subscribers" 
             title="segue lá 😜" 
