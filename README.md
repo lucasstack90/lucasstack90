@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Lucas, tenho 16 anos e atualmente curso o 2º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
+Me chamo Lucas, tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
 <br>
 
 Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.
