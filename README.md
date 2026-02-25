@@ -83,8 +83,5 @@ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes 
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=radical&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucasstack90&layout=compact&theme=radical&custom_title=Tecnologias"/>
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=radical&locale=pt-br"/><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucasstack90&layout=compact&theme=radical&custom_title=Tecnologias"/>
 
