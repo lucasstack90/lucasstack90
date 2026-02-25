@@ -8,16 +8,18 @@ Me chamo Lucas, tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Téc
 Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.
  <br>
 
-<p align="left">
-    <a href="https://www.instagram.com/luk_lcj/#" target="_blank">
-        <img 
-            alt="youtube subscribers" 
-            title="segue lá 😜" 
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-   
- </p>
+
+
+ 
+<div> 
+
+  <a href="https://www.instagram.com/lucas_zzsn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="mailto:lucasaguiarcorrea186@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://www.linkedin.com/in/lucasaguiarcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
@@ -81,21 +83,8 @@ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucasstack90&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"/>
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstack90&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img height="180em" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucasstack90&layout=compact&theme=radical&custom_title=Tecnologias"/>
 
