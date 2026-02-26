@@ -5,7 +5,7 @@
 
 ---
 
-# 👨‍💻 Lucas Aguiar
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucasstack90&color=00F7FF&style=for-the-badge" />
