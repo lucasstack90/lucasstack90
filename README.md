@@ -1,6 +1,6 @@
 <!-- BANNER ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lucas+Aguiar;Front-End+Developer;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+o+Futuro+com+C%C3%B3digo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lucas+Aguiar;Future+Developer;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+o+Futuro+com+C%C3%B3digo!" />
 </p>
 
 ---
@@ -11,9 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=Lucasstack90&color=00F7FF&style=for-the-badge" />
 </p>
 
-### 🚀 Desenvolvedor Front-End  
+### 🚀 Future Developer 
 🎓 3º Ano – Técnico em Desenvolvimento de Sistemas  
-🏫 Colégio Ana Vanda Bassara – Guarapuava/PR  
 🔥 Focado em evolução constante  
 
 ---
