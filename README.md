@@ -126,14 +126,6 @@
 
 ---
 
-## 🐍 Contribuições Animadas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lucasstack90/Lucasstack90/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 Objetivo
 
 Me tornar um desenvolvedor Full Stack de alto nível, dominar tecnologias modernas e construir soluções que impactem pessoas de verdade.
