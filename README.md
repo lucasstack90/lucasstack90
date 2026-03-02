@@ -1,51 +1,34 @@
-<!-- BANNER ANIMADO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lucas+Aguiar;Future+Developer;Estudante+de+Desenvolvimento+de+Sistemas;Construindo+o+Futuro+com+C%C3%B3digo!" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello,+my+name+is+Lucas!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" 
+      alt="Typing SVG" 
+    />
+  </a>
+</div>
 
----
+<p>👋 Tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
+
+<br>
+❤️ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.</p>
+ <br>
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucasstack90&color=00F7FF&style=for-the-badge" />
-</p>
+ 
+<div> 
 
-### 🚀 Future Developer 
-🎓 3º Ano – Técnico em Desenvolvimento de Sistemas  
-🔥 Focado em evolução constante  
-
----
-
-## 💡 Sobre mim
-
-👋 Eu me chamo Lucas, tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
-
-❤️ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.
-
----
-
-## 🌎 Conecte-se comigo
-
-<p align="center">
-
-<a href="https://www.instagram.com/lucas_zzsn/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  <a href="https://www.instagram.com/lucas_zzsn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="mailto:lucasaguiarcorrea186@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<a href="mailto:lucasaguiarcorrea186@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
-<a href="https://www.linkedin.com/in/lucasaguiarcorrea/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-
-</p>
+  <a href="https://www.linkedin.com/in/lucasaguiarcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -53,7 +36,7 @@
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -61,7 +44,7 @@
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -69,75 +52,40 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px; filter: invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
 <br/>
 
+### 📊 Estatísticas
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=radical&locale=pt-br"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucasstack90&theme=tokyonight&locale=pt-br" />
-</p>
-
----
-
-## 🎯 Objetivo
-
-Me tornar um desenvolvedor Full Stack de alto nível, dominar tecnologias modernas e construir soluções que impactem pessoas de verdade.
-
----
-
-## 🧠 Mentalidade
-
-```javascript
-while (!sucesso) {
-   estudar();
-   praticar();
-   evoluir();
-}
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=tokyonight&locale=pt-br"/>
