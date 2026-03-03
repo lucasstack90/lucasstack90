@@ -7,6 +7,8 @@
   </a>
 </div>
 
+<br>
+
 <p>👋 Tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
 
 <br>
