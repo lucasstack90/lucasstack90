@@ -95,7 +95,7 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstack90&show_icons=true&theme=tokyonight&locale=pt-br"/>
 
----
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasstack90/lucasstack90/output/github-contribution-grid-snake-dark.svg">
