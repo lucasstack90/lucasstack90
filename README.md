@@ -19,7 +19,7 @@
 
 
  
-<div align="center">
+<div align="left">
 
 <a href="https://www.instagram.com/lucas_zzsn/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
