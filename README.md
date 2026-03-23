@@ -12,23 +12,27 @@
 <p>👋 Tenho 16 anos e atualmente curso o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas no Colégio Ana Vanda Bassara.
 
 <br>
+
 ❤️ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.</p>
  <br>
 
 
 
  
-<div> 
-  
+<div align="center">
+
 <a href="https://www.instagram.com/lucas_zzsn/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:lucasaguiarcorrea186@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:lucasaguiarcorrea186@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  <a href="https://www.linkedin.com/in/lucasaguiarcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<a href="https://www.linkedin.com/in/lucasaguiarcorrea/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
 ---
