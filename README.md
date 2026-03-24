@@ -13,7 +13,7 @@
 
 <br>
 
-❤️ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento Web.</p>
+❤️ Sou apaixonado por tecnologia e acredito no meu potencial para realizar grandes projetos. A cada dia, venho me aprofundando e me encantando ainda mais pelo universo do Desenvolvimento.</p>
  <br>
 
 
