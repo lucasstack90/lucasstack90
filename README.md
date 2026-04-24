@@ -32,9 +32,6 @@
 
 ### 📊 Meu Desempenho
 
-
-<br>
-
 <div align="center">
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasstack90/lucasstack90/output/github-contribution-grid-snake-dark.svg">
