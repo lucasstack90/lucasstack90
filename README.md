@@ -1,4 +1,4 @@
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👨‍💻 Sobre Mim
 👋 Olá! Atualmente curso o **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas** no Colégio Ana Vanda Bassara. 
@@ -40,26 +40,5 @@
 </picture>
 </div>
 
----
-
-### 📚 Colinha de Git (Cheat Sheet)
-<details>
-  <summary><b>Clique para ver os comandos que uso no terminal 💻</b></summary>
-
-  #### Inicialização
-  - `git init`: Inicia o repositório local.
-  - `git remote add origin URL`: Conecta ao GitHub.
-
-  #### Ciclo Diário
-  - `git add .`: Prepara as alterações.
-  - `git commit -m "msg"`: Salva as alterações.
-  - `git push -u origin main`: Envia para o GitHub.
-
-  #### Chave SSH
-  - `ssh-keygen -t ed25519 -C "email"`: Gera a chave.
-  - `cat ~/.ssh/id_ed25519.pub`: Copia a chave.
-</details>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
