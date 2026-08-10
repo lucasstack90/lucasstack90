@@ -4,8 +4,11 @@
   </a>
 </div>
 
+<img align="center" alt="" src="img/Black and White Simple Project Manager LinkedIn Banner (1).gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 👋 Olá! Atualmente curso o **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas** no Colégio Ana Vanda Bassara. 
 
